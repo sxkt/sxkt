@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sntq
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning React, Node.js
 
 <!---
 sntq/sntq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
